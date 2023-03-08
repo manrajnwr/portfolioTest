@@ -1,0 +1,119 @@
+h1{
+	text-align: center;
+}
+h3{
+	text-align: ;
+}
+hr {
+	height: 3px;
+	background-color: black;
+}
+.head {
+	display: inline-flex;
+	align-items: center;
+	width: 100%;
+
+	
+}
+.contact {
+	display: inline-block;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	width: auto;
+	float: right; 
+	margin: 0 auto;
+	font-size: 18px;
+}
+.star {
+	padding-top: 8px;
+}
+
+.info {
+	text-align: center;
+}
+
+.net{
+	font-style: bold;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+body{
+	font-family: "Roboto", 'Helvetica', "sans-serif";
+	background-color: #D3D3D3;
+}
+
+
+div > .offer{
+	display: inline-block;
+	width: 775px;
+	margin: 4px;
+	text-align: center;
+
+}
+
+.offer{
+	display: inline-block;
+	width: 775px;
+	margin: 4px;
+	text-align: center;
+
+}
+
+.container{
+	text-align: center;
+	margin: 0px;
+	font-size: 13px;
+	margin: 0px;
+}
+
+div > .offerTitle{
+	font-size: 18px;
+	font-weight: bold;
+	font-style: bold;
+	text-decoration: underline;
+	margin: 0px;
+	padding: 20px;
+
+}
+
+div > .offerContents{
+	padding: 20px;
+
+}
+
+table{
+	width: 100%;
+	
+	
+
+}
+td{
+	font: lighter;
+	font-weight: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 0px;
+}
+
+th{
+	font-weight: bold;
+	font-size: 12px;
+	color: #777777;
+	padding: 10px;
+	margin: 0px;
+
+}
+
+td, tr{
+	text-align: left;
+	font-weight: lighter;
+}
